@@ -1,2 +1,2 @@
 spring:
-  test: userServer-dev
+  test: userServer-dev-test
